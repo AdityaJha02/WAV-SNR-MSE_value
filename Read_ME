@@ -1,0 +1,6 @@
+# Calculation of SNR(Sound to Noise Ratio) and MSE(Mean Squared Error) for the wav audio
+
+This project is combined with Audio Steganography project to compare the quality of audio before embedding the audio and after embedding the audio. 
+
+The project is implemented in JAVA. 
+If there is any issue in running the file, try to replace the Math jre file.
